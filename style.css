@@ -1,0 +1,37 @@
+section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),
+    rgba(0, 0, 0, 0.5)) ,
+    url(Images/3.jpg);
+    
+}
+
+.logo {
+    padding-top: 50px;
+    text-align: center;
+}
+
+
+form{
+    background-color: rgb(255, 255, 255);
+    filter: none;
+}
+
+.container {
+    width: 500px;
+    height: 300px;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+p{
+    color: white;
+    opacity: 0.5;
+    text-align: center;
+    padding-top: 5px;
+}
+
+form{
+    border-radius: 0.5rem;
+}
